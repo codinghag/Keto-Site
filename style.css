@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.top-nav {
+  height: 250px;
+  border-bottom: 1px black solid;
+}
+
+.nav-bar {
+  margin-top: 20px;
+}
+
+.nav-right {
+  float: right;
+}
