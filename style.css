@@ -5,6 +5,7 @@
 
 body {
   background-color: darkcyan;
+  color: white;
 }
 
 img {
@@ -24,4 +25,17 @@ img {
 
 .nav-right {
   float: right;
+  margin: 30px;
 }
+
+.nav-right ul {
+  list-style: none;
+}
+
+.nav-right ul li {
+  display: inline-block;
+  padding: 15px;
+  border: 1px black solid;
+  border-radius: 6px;
+}
+
