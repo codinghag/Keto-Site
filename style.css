@@ -4,11 +4,14 @@
 }
 
 body {
+  background: url(Images/stijn-te-strake-UdhpcfImQ9Y-unsplash.jpg);
+  background-size: cover;
+  background-color: #cece9f;
 }
 
 
 
-img {
+.header-pic {
   height: 80px;
   width: 80px;
   margin-left: 35px;
@@ -17,8 +20,7 @@ img {
 }
 
 .top-nav {
-  height: 250px;
-  border-bottom: 1px black solid;
+  height: 150px;
   position: relative;
 }
 
@@ -29,7 +31,7 @@ h1 {
 }
 
 .nav-bar {
-  margin-top: 20px;
+ 
 }
 
 .nav-right {
@@ -47,4 +49,14 @@ h1 {
   padding: 15px;
   border: 1px black solid;
   border-radius: 6px;
+}
+
+.eggplant {
+  height: 350px;
+  width: 350px;
+}
+
+.ocean {
+  height: 350px;
+  width: 350px;
 }
