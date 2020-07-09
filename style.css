@@ -26,8 +26,10 @@ body {
 
 h1 {
   position: absolute;
-  left: 800px;
-  top: 20px;
+  text-transform: uppercase;
+  font-size: 100px;
+  left: 855px;
+  top: 320px;
 }
 
 .nav-bar {
@@ -51,12 +53,14 @@ h1 {
   border-radius: 6px;
 }
 
-.eggplant {
+/* .eggplant {
   height: 350px;
   width: 350px;
+  opacity: 0.7;
 }
 
 .ocean {
   height: 350px;
   width: 350px;
-}
+  opacity: 0.7;
+} */
